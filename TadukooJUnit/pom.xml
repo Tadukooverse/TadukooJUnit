@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>com.github.tadukoo.junit</groupId>
 		<artifactId>TadukooJUnitParent</artifactId>
-		<version>0.1.1-Alpha-SNAPSHOT</version>
+		<version>0.1.1-Alpha</version>
 	</parent>
 	<artifactId>TadukooJUnit</artifactId>
 	<dependencies>
