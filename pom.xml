@@ -6,11 +6,11 @@
 	<parent>
 		<groupId>com.github.tadukoo.maven</groupId>
 		<artifactId>TadukooMavenLibraryPOM</artifactId>
-		<version>0.3-Alpha</version>
+		<version>0.3.1-Alpha</version>
 	</parent>
 	<groupId>com.github.tadukoo.junit</groupId>
 	<artifactId>TadukooJUnitParent</artifactId>
-	<version>0.1-Alpha</version>
+	<version>0.1.1-Alpha-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<description>Utilities for JUnit tests</description>
 	<modules>
@@ -20,7 +20,7 @@
 		<shortName>TadukooJUnit</shortName>
 		
 		<!-- Override Tadukoo versions -->
-		<tadukoo.util.version>0.5-Beta</tadukoo.util.version>
+		<tadukoo.util.version>0.5.1-Beta</tadukoo.util.version>
 		<tadukoo.junit.version>${project.version}</tadukoo.junit.version>
 	</properties>
 </project>
